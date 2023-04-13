@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410082** |
+| Nama Lengkap | **Alya Rahmania I.S** |
 | Kelas | TI-4B |
